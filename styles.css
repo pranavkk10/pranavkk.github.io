@@ -20,3 +20,12 @@ padding: 20px 10px;
 background: lightgreen; /* pick a color */
 border-radius: 25%;
 }
+
+.projectimg{
+    width:200px;
+    height:200px;
+    margin:10px;
+    border:2px solid lightgreen;
+    display:block;
+    margin: auto;
+}
